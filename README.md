@@ -6,6 +6,21 @@
 ---
 
 <details>
+<summary>📅 2025-05-12 - 에러 개선 작업 </summary>
+
+###  오늘 한 일
+- [x] 엑셀 다운로드 오류 개선
+- [x] TDD 가이드라인 작성 논의
+
+### 📝 메모
+- 집계 쿼리 수정
+- Join절에 둔 테이블을 mother 테이블로 집계
+
+</details>
+
+---
+
+<details>
 <summary>📅 2025-05-09 - API 문서화 논의</summary>
 
 ###  오늘 한 일
