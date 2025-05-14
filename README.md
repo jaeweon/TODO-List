@@ -3,6 +3,22 @@
 > 기록을 습관으로.  
 > 멍 때릴 때 가장 성장한다.
 
+
+---
+
+<details>
+<summary>📅 2025-05-14 - Swagger Jwt 설정 </summary>
+
+###  오늘 한 일
+- [x] Swagger Jwt 인증 방법 검토
+
+### 📝 메모
+- 
+- 
+
+</details>
+
+
 ---
 
 <details>
