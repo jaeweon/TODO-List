@@ -7,17 +7,17 @@
 ---
 
 <details>
-<summary>📅 2025-05-14 - Swagger Jwt 설정 </summary>
+<summary>📅 2025-05-16 - 자바8 직렬화 문제 해결 </summary>
 
 ###  오늘 한 일
-- [x] Swagger Jwt 인증 방법 검토
+- [x] 테스트 시, LocalDateTime 직렬화 Gson Config 설정
+- [x] 기존 구현된 API 테스트 코그 작성
 
 ### 📝 메모
-- 
-- 
+- Gson 인스턴스를 직접 생성하지 않으면, Spring은 기본 Gson 인스턴스를 사용함
+- Gson 인스턴스를 명시적으로 @Bean으로 등록하면, Spring은 이를 감지해 GsonHttpMessageConverter에 자동으로 주입함
 
 </details>
-
 
 ---
 
