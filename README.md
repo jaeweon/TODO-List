@@ -3,6 +3,7 @@
 > 기록을 습관으로.  
 > 멍 때릴 때 가장 성장한다.
 
+---
 
 <details>
 <summary>📅 2025-06-13 - 에러 대응 및 팀내 Test Code 작성 문화 공유 </summary>
@@ -19,6 +20,7 @@
 - 트러블 슈팅 회고 : https://backendeveloper.tistory.com/212
 
 </details>
+
 ---
 
 <details>
