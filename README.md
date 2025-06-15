@@ -20,8 +20,8 @@
 - SQL에서 최적화 이후 QueryDSL에서 다시 최적화한다.
 
 ### 첨부파일 
-- 쿼리 작성 : 
-- 쿼리 리펙토링 : 
+- 쿼리 작성 : https://github.com/jaeweon/TODO-List/blob/master/java/queryDSL/Optimization.java
+- 쿼리 리펙토링 : https://github.com/jaeweon/TODO-List/blob/master/java/queryDSL/Optimization-Refacorting.java
 
 </details>
 
