@@ -10,6 +10,19 @@
 <summary>📅 2025-06-04 - QueryDsl 작성 </summary>
 
 ###  오늘 한 일
+- [x] 운영환경 에러 대응
+- [X] TDD with Spring RestDocs 팀내 공유
+
+### 📝 메모
+- 팀내 TDD를 정착하기 위한 발표
+- 에러 분석 및 해결
+
+### 첨부파일 
+- 트러블 슈팅 회고 : https://backendeveloper.tistory.com/212
+
+</details>
+
+###  오늘 한 일
 - [x] 요구사항 분석
 - [X] 추출 가능한 데이터 여부 검토 
 - [x] SQL 작성 / 최적화
